@@ -1,0 +1,27 @@
+{
+  "name": "abhishek-package",
+  "version": "1.0.0",
+  "description": "this is just a package created with a reference to the git repository",
+  "main": "package.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhishekKr11511/EmptyPackage.git"
+  },
+  "keywords": [
+    "Abhishek",
+    "javascript",
+    "npm"
+  ],
+  "author": "Abhishek (Me)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbhishekKr11511/EmptyPackage/issues"
+  },
+  "homepage": "https://github.com/AbhishekKr11511/EmptyPackage#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
